@@ -1,9 +1,9 @@
-# MachineLearning
-# 这是一级标题
-## 这是二级标题
-### 这是三级标题
-- 第一次
-- 第二次
-- 第三次
-1. 1
-2. 2
+# Some algorithms about Machine Learning for python (just for personal studying)
+# 一些机器学习的经典算法的Python实现（仅供个人学习使用）
+## 文件格式:ipynb
+
+Algorithms list:
+- LDA
+- KNN
+- Naive Bayes
+
